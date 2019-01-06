@@ -1,0 +1,2 @@
+Verifica status array Supermicro SMC2108
+Com este script você pode verificar o status do seu RAID e enviar e-mail para saber se está ok ou caso haja algum problema.
